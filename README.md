@@ -7,7 +7,7 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-A very simple and intuitive gym application.
+A very simple, intuitive and light gym application.
 
 
 ## :bulb: Motivation and Context
